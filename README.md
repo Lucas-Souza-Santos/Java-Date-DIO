@@ -20,3 +20,8 @@ Curso de Java para tratamento de Datas
     O epoch timestamp é um padrão largamente aceito para 
     representar um data como um inteiro 32-bits a partir 
     do início do **Unix Epoch...**
+
+    Vamos testar com base no **System.currentTimeMillis()**
+
+    Esse método estático vai nos retornar o milissegundo mais 
+    próximo de sua execução com base no Sistema Operacional
