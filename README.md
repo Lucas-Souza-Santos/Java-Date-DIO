@@ -11,3 +11,7 @@ Ou seja... É de se esperar que algumas coisas não se mostrem tão
 interessantes nos dias atuais, dado a sua idade.
 ```
 
+````
+Nesse primeiro momento, vamos ver como podemos trabalhar com a 
+manipulação de datas a Classe **java.util.Date** do Java.
+```
