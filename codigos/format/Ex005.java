@@ -12,5 +12,6 @@ public class Ex005 {
         String dataFormatada = formatter.format(agora);
 
         System.out.println(dataFormatada);
+        System.out.println(agora.ad);
     }
 }

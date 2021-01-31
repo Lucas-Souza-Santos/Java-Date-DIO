@@ -107,5 +107,31 @@ Curso de Java para tratamento de Datas
     de formatação para a saída de data que você deseja.
 
 
+## Datas no Java *+
+    O java 8 veio com uma série de novidades para facilitar o 
+    trabalho com Datas.
+
+    E a grande melhoria está no pacote java.time que foi herdado
+    do projeto Joda Time.
+
+    Trabalhar com datas nunca foi tão fácil com esse novo pacote.
+
+    Nele destacam-se três classes:
+        - LocalDate;
+            é uma classe imutável para representar uma data. 
+            Seu formato padrão é yyyy-MM-dd
+        - LocalTime;
+            é uma classe imutável que representa um padrão de hora-minuto-segundo
+
+            pode ser representado até o nível de nanosegundos.
+        - LocalDateTime.
+            funciona como uma espécie de junção entre o LocalTime e o 
+            LocalDate
+
+            Também é uma classe imutável e você consegue trabalhar com 
+            dia e hora de uma só vez 
+
+            Você pode manipular a data e hora com precisão de 
+            nanosegundos.
 
 
