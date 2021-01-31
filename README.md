@@ -102,6 +102,10 @@ Curso de Java para tratamento de Datas
 
     Ambos oferecem maneiras de formatar e parsear a saída das datas.
 
+### O java.text.DateFormat 
+    Já o simpleDateFormat traz uma grande facilidade que é definir um padrão
+    de formatação para a saída de data que você deseja.
+
 
 
 
