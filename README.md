@@ -3,12 +3,10 @@ Curso de Java para tratamento de Datas
 
 ## O java.util.Date
 ### Date()
+    Este construtor vai alocar um objeto da classe Date e o **inicializará com o 
+    milissegundo mais próximo** do período da sua execução.
 
-```
-    Este construtor vai alocar um objeto da classe Date e o **inicializará com o milissegundo mais próximo**
-    do período da sua execução.
-```
-OBS.: Os exemplos estaram na pasta codigos
+    OBS.: Os exemplos estaram na pasta codigos
 
 ### Date(long date)
     Diferente do construtoranterior, esse construtor espera
