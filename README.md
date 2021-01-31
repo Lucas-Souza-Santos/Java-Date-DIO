@@ -12,3 +12,10 @@ Curso de Java para tratamento de Datas
     Diferente do construtoranterior, esse construtor espera
     que você passe os millissegundos com base padrão de tempo
     (epoch) que usa como referência 1 de janeiro de 1970 00:00:00
+
+#####
+
+*Uma pequena pausa... O que é o Epoch?*
+    "O epoch timestamp é um padrão largamente aceito para 
+    representar um data como um inteiro 32-bits a partir 
+    do início do" *Unix Epoch...*
