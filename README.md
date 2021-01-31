@@ -2,16 +2,16 @@
 Curso de Java para tratamento de Datas
 
 ## O java.util.Date
-````
-Antes de qualquer coisa, vamos definir aqui o ponto que estamos. 
+### Date()
 
-A implementação da java.util.Date está na JDK desde sua versão 1.0
-
-Ou seja... É de se esperar que algumas coisas não se mostrem tão
-interessantes nos dias atuais, dado a sua idade.
 ```
-
-````
-Nesse primeiro momento, vamos ver como podemos trabalhar com a 
-manipulação de datas a Classe **java.util.Date** do Java.
+    Este construtor vai alocar um objeto da classe Date e o **inicializará com o milissegundo mais próximo**
+    do período da sua execução.
 ```
+OBS.: Os exemplos estaram na pasta codigos
+
+### Date(long date)
+**Diferente do construtoranterior, esse construtor espera
+que você passe os millissegundos com base padrão de tempo
+(epoch) que usa como referência 1 de janeiro de 1970 00:00:00
+**
