@@ -31,41 +31,58 @@ Curso de Java para tratamento de Datas
 ####
 ### Métodos úteis
 * after(Date)
-Retorno
-    boolean
-Descrição
-    Checa se o objeto Datade referência é posterior ao comparado
+```
+    Retorno
+        boolean
+    Descrição
+        Checa se o objeto Datade referência é posterior ao comparado
+```
 * before(Date)
-Retorno
-    boolean
-Descrição
-    Checa se o objeto Data de referência é anterior ao comparado
+```
+    Retorno
+        boolean
+    Descrição
+        Checa se o objeto Data de referência é anterior ao comparado
+```
 * compareTo(Date)
-Retorno
-    int 
-Descrição
-    Compara dois objetos Data
+```
+    Retorno
+        int 
+    Descrição
+        Compara dois objetos Data
+```
 * equals(Date)
-Retorno
-    boolean
-Descrição
-    Checa se os objetos são iguais
+```
+    Retorno
+        boolean
+    Descrição
+        Checa se os objetos são iguais
+```
 * getTime()
-Retorno
-    long
-Descrição
-    Retorna a data em milessegundos setTime(long)
-Retorno
-    void
-Descrição
-    Define uma data com base em millissegundos
+```
+    Retorno
+        long
+    Descrição
+        Retorna a data em milessegundos setTime(long)
+```
+* getTime(long)
+```
+    Retorno
+        void
+    Descrição
+        Define uma data com base em millissegundos
+```
 * form(Instante)
-Retorno
-    static Date
-Descrição
-    Define uma data com base em um Instant
+```
+    Retorno
+        static Date
+    Descrição
+        Define uma data com base em um Instant
+```
 * toInstant()
-Retorno
-    Instant
-Descrição
-    Retorna um Instant com base em um Date
+```
+    Retorno
+        Instant
+    Descrição
+        Retorna um Instant com base em um Date
+```
